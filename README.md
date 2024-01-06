@@ -1,5 +1,20 @@
 # Club_website
- This is traveling club website where user can book trip and book flight.
- TO make migrations - python manage.py makemigrations
- To execute migrations - python manage.py migrate
- To run server - python manage.py runserver
+
+Welcome to Club_website, a traveling club website where users can easily book trips and flights. Manage your travel plans efficiently with our user-friendly interface.
+
+
+
+
+
+ TO make migrations - 
+ ``bash
+    python manage.py makemigrations
+    ```
+ To execute migrations - 
+ ``bash
+    python manage.py migrate
+    ```
+ To run server -
+ ``bash
+    python manage.py runserver
+    ```
