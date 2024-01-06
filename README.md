@@ -7,14 +7,14 @@ Welcome to Club_website, a traveling club website where users can easily book tr
 
 
  TO make migrations - 
- ``bash
+ '''bash
     python manage.py makemigrations
-    ```
+    '''
  To execute migrations - 
- ``bash
+ '''bash
     python manage.py migrate
-    ```
+    '''
  To run server -
- ``bash
+ '''bash
     python manage.py runserver
-    ```
+    '''
